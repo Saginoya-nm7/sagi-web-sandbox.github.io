@@ -1,0 +1,35 @@
+#header {
+    height: 200px;
+    background-color: gray;
+    margin: 0px 0px 50px 0px;
+}
+
+#icon {
+    height: auto;
+    width: auto;
+}
+
+#link {
+    padding: 50px 0px 0px 0px;
+}
+
+.iconwrapper {
+    padding: 20px 0px 10px 0px;
+    height: 70%;
+}
+
+.title {
+    height: 30%;
+    color: lightgrey;
+    font-family: 'Bellota Text', cursive;
+    font-size: 24px;
+}
+
+.dev {
+    background: #f99;
+}
+
+.message {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 24px;
+}
